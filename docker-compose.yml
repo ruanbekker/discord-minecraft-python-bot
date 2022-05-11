@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  discord-bot:
+    container_name: discord-bot
+    build: .
+    restart: on-failure
+    env_file:
+      - .sample_env
+
