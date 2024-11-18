@@ -12,4 +12,4 @@ Example usage of a discord bot, demonstrating how you can interact with your min
 ## Blog Post
 
 More details on this is demonstrated in this blog post:
-- https://blog.ruanbekker.com/blog/2022/05/05/create-a-discord-bot-in-python/
+- https://ruan.dev/blog/2022/05/05/create-a-discord-bot-in-python
